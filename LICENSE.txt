@@ -1,0 +1,33 @@
+PinDrop
+END USER LICENSE AGREEMENT
+
+This End User License Agreement ("EULA") governs use of the accompanying software. If you use the software, you accept this license. If you do not accept the license, do not use the software.
+
+1. Definitions
+The terms "reproduce," "reproduction" and "distribution" have the same meaning here as under U.S. copyright law.
+
+"Licensor" indicates Viputheshwar Sitaraman, or otherwise the creator & copyright owner of the software.
+
+"You", or "Licensee" means the licensee of the software, being you, as either an individual or a single company or other legal entity.
+
+"Your company" means the company you worked for when you use the software.
+
+"Reference use" means use of the software within your company as a reference, in read only form, for the sole purposes of debugging your products, maintaining your products, or enhancing the interoperability of your products with the software, and specifically excludes the right to distribute the software outside of your company.
+
+"Licensed patents" means any Licensor patent claims which read directly on the software as distributed by the Licensor under this license.
+
+2. Copy & Use Terms
+This is software is copyrighted, and intended for use in read-only form as follows:
+(A) Subject to the terms and conditions of this Agreement, "Licensor" hereby grants to you a non-exclusive, nontransferable right to use the Software (for the purpose of this Agreement, to use the Software includes to download, install, and access the Software) listed in the Grant Letter solely for your own internal business operations.
+
+(B) The Software, including, without limitation, its object code and source code, whether or not provided to you, is strictly confidential to "Licensor". "Licensor" (or its licensors) owns exclusively and reserves all – and you may not exercise any – right, title, and interest in and to the Software, including, without limitation, all intellectual property rights in and to the Software, except to the extent of the limited Software use license granted to you in this Agreement. This Agreement is not an agreement of sale, and no title, intellectual property rights, or ownership rights to the Software are transferred to you pursuant to this Agreement. You acknowledge and agree that the Software and all ideas, methods, algorithms, formulae, processes, and concepts used in developing or incorporated into the Software, all future Updates and Upgrades, and all other improvements, revisions, corrections, bug-fixes, hot- fixes, patches, modifications, enhancements, releases, DATs, signature sets, upgrades, and policy and database updates and other updates in, of, or to the Software, all derivative works based upon any of the foregoing, and all copies of the foregoing are trade secrets and proprietary property of "Licensor",
+having great commercial value to "Licensor".
+
+3. Limitations
+(A) No Trademark License- This license does not grant you any rights to use the Licensor's name, logo, or trademarks.
+
+(B) General Restrictions- You may not, and you may not cause or allow any third party to: (i) decompile, disassemble or reverse-engineer the Software; or create or recreate the source code for the Software; (ii) remove, erase, obscure, or tamper with any copyright or any other product identification or proprietary rights notices, seal, or instructional label printed or stamped on, affixed to, or encoded or recorded in or on any Software or Documentation; or fail to preserve all copyright and other proprietary notices in all copies of the Software and Documentation made by you; (iii) lease, lend or use the Software for timesharing or service bureau purposes; sell, market, license, sublicense, distribute, or otherwise grant to any person or entity any right to use the Software except to the extent expressly permitted in this Agreement; or use the Software to provide, alone or in combination with any other product or service, any product or service to any person or entity, whether on a fee basis or otherwise; (iv) modify, adapt, tamper with, translate, or create derivative works of the Software or the Documentation; combine or merge any part of the Software or Documentation with or into any other software or documentation; or refer to or otherwise use the Software as part of any effort to develop software (including, without limitation, any routine, script, code, or program) having any functional attributes, visual expressions, or other features similar to those of the Software or to compete with "Licensor"; (v) except with "Licensor"’s prior written permission, publish any performance or benchmark tests or analysis relating to the Software; or (vi) attempt to do any of the foregoing. You may not run or operate the Software in a cloud, Internet-based computing, or similar on-demand computing environment unless your Grant Letter specifically provides such.
+
+(C) If you begin patent litigation against the Licensor over patents that you think may apply to the software (including a cross-claim or counterclaim in a lawsuit), your license to the software ends automatically.
+
+(D) The software is licensed "as-is." You bear the risk of using it. The Licensor gives no express warranties, guarantees or conditions. You may have additional consumer rights under your local laws which this license cannot change. To the extent permitted under your local laws, the Licensor excludes the implied warranties of merchantability, fitness for a particular purpose and non-infringement.
