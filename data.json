@@ -1,17 +1,1 @@
-[
-  {
-    "name" : "Title",
-    "lat" : -25,
-    "lng" : 130
-  },
-  {
-    "name" : "Title2",
-    "lat" : 25,
-    "lng" : 130
-  },
-  {
-    "name" : "Title3",
-    "lat" : -38,
-    "lng" : 150
-  }
-]
+[{"name":"Texas","lat":"30.267153","lng":"-97.743061"},{"name":"California","lat":"36.778261","lng":"-119.417932"},{"name":"New York, NY","lat":"40.712775","lng":"-74.005973"}]
