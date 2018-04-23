@@ -5,7 +5,7 @@ PinDrop is a simple utility to create an embeddable map with markers/pins. Data 
 To begin using the template, be sure to configure the server as follows:
 	
 #### Getting Started
-[Click here](http://vsitaraman.github.io/pin-drop) or visit [vsitaraman.github.io/pin-drop](http://vsitaraman.github.io/pin-drop) in order to acces the demo site. Then, all that's left is dropping pins! 
+[Click here](http://vsitaraman.github.io/pin-drop/) or visit [vsitaraman.github.io/pin-drop/](http://vsitaraman.github.io/pin-drop/) in order to acces the demo site. Then, all that's left is dropping pins! 
 
 #### Saving
 When saving your map for later, copy & paste the HTML code provided if you want to embed your map on any website. Otherwise, save the JSON to re-use or edit the map later.
